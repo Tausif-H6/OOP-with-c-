@@ -1,0 +1,1 @@
+/*  Abstrac base class emn ekta class jekhane kom pokhhhe ekta pure virtual function(Use kortei hobe emn function) hobei.............*/
